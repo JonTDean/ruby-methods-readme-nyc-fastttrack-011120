@@ -9,3 +9,5 @@ def say_hello_world_ten_times()
       i += 1
     end
 end
+
+say_hello_world_ten_times
